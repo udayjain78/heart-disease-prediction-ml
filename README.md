@@ -60,14 +60,14 @@ heart-disease-prediction-ml/
 │   └── columns.pkl
 │
 └── screenshots/
-    └── app-ui.jpg
+    └── app-ui.JPG
 ```
 
 ---
 
 ## Application Screenshot
 
-![App UI](screenshots/app-ui.jpg)
+![App UI](screenshots/app-ui.JPG)
 
 ---
 
